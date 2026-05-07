@@ -1,0 +1,24 @@
+# config.yaml
+
+base_directory: /vast/sa58ged/snakemake_afla/snakemake_afla
+
+myspecies: afla
+  
+configs:
+  afum:
+    reference_genome: starindex/afum.fa
+    annotation_gtf: starindex/afum.gtf
+    annotation_gff3: starindex/afum.gff3
+  afla:
+    reference_genome: starindex/afla.fa
+    annotation_gtf: starindex/afla.gtf
+    annotation_gff3: starindex/afla.gff3
+  anid:
+    reference_genome: starindex/anid.fa
+    annotation_gtf: starindex/anid.gtf
+    annotation_gff3: starindex/anid.gff3
+  anig:
+    reference_genome: starindex/anig.fa
+    annotation_gtf: starindex/anig.gtf
+    annotation_gff3: starindex/anig.gff3
+ 

@@ -1,0 +1,507 @@
+fam1	nig	nid
+fam2	fla	nig
+fam3	fum	nig
+fam4	fla	nig	nid
+fam5	fla	nig
+fam6	fum	nig
+fam7	fla	fum	nig	nid
+fam8	nig	nid
+fam9	fla	nid
+fam10	fla	nig
+fam11	fla	fum	nig
+fam12	nig	nid
+fam13	fla	fum	nid
+fam14	fla	nig	nid
+fam15	fla	fum	nig	nid
+fam16	fla	nig
+fam17	nig	nid
+fam18	fla	nig	nid
+fam19	fla	nig
+fam20	fla	nid
+fam21	fla	nig
+fam22	fla	nig
+fam23	nig	nid
+fam24	fum	nig
+fam25	nig	nid
+fam26	fla	nig
+fam27	fla	nig	nid
+fam28	fla	fum	nid
+fam29	fla	nid
+fam30	fla	fum	nig	nid
+fam31	fla	nig
+fam32	nig	nid
+fam33	fla	fum	nid
+fam34	fla	nid
+fam35	fla	fum
+fam36	fla	nig	nid
+fam37	nig	nid
+fam38	fla	nig
+fam39	fla	nid
+fam40	fla	fum	nig	nid
+fam41	fum	nid
+fam42	fla	fum
+fam43	fla	fum
+fam44	fla	nid
+fam45	fla	fum	nig
+fam46	fla	nid
+fam47	nig	nid
+fam48	fla	nid
+fam49	fla	nig
+fam50	fla	nig	nid
+fam51	fla	nid
+fam52	fla	nig	nid
+fam53	fla	nid
+fam54	fla	fum	nig	nid
+fam55	fla	nid
+fam56	fla	nig	nid
+fam57	fla	nid
+fam58	fum	nid
+fam59	fla	fum	nig	nid
+fam60	fla	fum
+fam61	fla	fum
+fam62	nig	nid
+fam63	fla	nid
+fam64	fla	fum
+fam65	fla	nig	nid
+fam66	nig	nid
+fam67	fla	nig	nid
+fam68	nig	nid
+fam69	fla	fum	nig
+fam70	fla	nid
+fam71	fla	nig
+fam72	fla	fum
+fam73	fum	nig	nid
+fam74	fla	nid
+fam75	fla	fum
+fam76	fla	nid
+fam77	fla	nig	nid
+fam78	fla	nid
+fam79	fla	nig
+fam80	fla	nig	nid
+fam81	fla	nid
+fam82	fla	nid
+fam83	fla	nid
+fam84	fla	nid
+fam85	fla	nig	nid
+fam86	fla	nid
+fam87	fla	nid
+fam88	fla	fum	nig	nid
+fam89	fla	nid
+fam90	fla	nig
+fam91	fla	nig
+fam92	fla	nid
+fam93	fla	fum
+fam94	fla	nig	nid
+fam95	fla	nig
+fam96	fla	nig
+fam97	fla	fum	nig	nid
+fam98	fla	nid
+fam99	fla	nig	nid
+fam100	fla	nid
+fam101	fla	nig	nid
+fam102	fla	nig	nid
+fam103	fum	nig
+fam104	fla	nig	nid
+fam105	fla	fum	nig	nid
+fam106	fla	fum	nig	nid
+fam107	fla	nig	nid
+fam108	fla	nid
+fam109	fla	nid
+fam110	nig	nid
+fam111	fla	fum	nid
+fam112	fla	nid
+fam113	fla	nid
+fam114	nig	nid
+fam115	fla	fum	nid
+fam116	fla	fum	nid
+fam117	fla	nig	nid
+fam118	fla	nig
+fam119	fla	nig
+fam120	fla	nig
+fam121	fla	nig
+fam122	fum	nig	nid
+fam123	fum	nig
+fam124	fla	nid
+fam125	fla	nid
+fam126	fla	nig	nid
+fam127	fla	nig
+fam128	fla	fum
+fam129	fum	nig
+fam130	nig	nid
+fam131	nig	nid
+fam132	fum	nid
+fam133	fum	nig	nid
+fam134	fla	nig
+fam135	fla	nid
+fam136	fla	nig	nid
+fam137	fla	nid
+fam138	nig	nid
+fam139	fla	fum	nig	nid
+fam140	fla	nig
+fam141	fla	nig	nid
+fam142	fla	nid
+fam143	fla	nig	nid
+fam144	fla	nid
+fam145	fla	nig
+fam146	fla	fum	nig
+fam147	fla	fum	nid
+fam148	fla	fum	nig	nid
+fam149	fla	nig	nid
+fam150	fla	nid
+fam151	nig	nid
+fam152	fla	fum	nig	nid
+fam153	fla	nig
+fam154	fla	nid
+fam155	fum	nid
+fam156	nig	nid
+fam157	fum	nid
+fam158	fla	nid
+fam159	fla	nid
+fam160	fum	nig	nid
+fam161	fla	fum
+fam162	fla	nig	nid
+fam163	fla	nig	nid
+fam164	fla	fum	nig	nid
+fam165	fla	nig	nid
+fam166	fla	fum	nid
+fam167	fla	nid
+fam168	fla	nid
+fam169	fla	fum
+fam170	fla	fum
+fam171	fla	nid
+fam172	nig	nid
+fam173	fla	fum	nig	nid
+fam174	fla	nid
+fam175	fla	fum	nig
+fam176	fla	nig	nid
+fam177	nig	nid
+fam178	nig	nid
+fam179	fla	fum	nid
+fam180	fla	nig	nid
+fam181	fla	nid
+fam182	fla	fum	nig	nid
+fam183	fum	nig
+fam184	fla	nig
+fam185	fla	fum	nig	nid
+fam186	fla	nid
+fam187	fum	nig
+fam188	fla	fum	nid
+fam189	fla	nid
+fam190	fla	fum	nid
+fam191	fla	fum	nid
+fam192	nig	nid
+fam193	fla	fum	nid
+fam194	fla	nid
+fam195	fla	nid
+fam196	fla	nid
+fam197	fla	nig	nid
+fam198	fla	nid
+fam199	fla	nig
+fam200	fla	nid
+fam201	fla	fum	nig
+fam202	fla	nig
+fam203	fla	nig
+fam204	fla	nid
+fam205	nig	nid
+fam206	fla	nig
+fam207	fla	nig
+fam208	fla	fum
+fam209	fla	fum	nid
+fam210	fla	nid
+fam211	fla	nig	nid
+fam212	fla	nid
+fam213	fla	nid
+fam214	fla	nig
+fam215	fla	nig
+fam216	fum	nig	nid
+fam217	fla	fum	nig	nid
+fam218	fla	nid
+fam219	fla	nig
+fam220	fla	nig
+fam221	fla	nig
+fam222	fla	nig
+fam223	fla	nid
+fam224	fla	nig	nid
+fam225	fla	nig	nid
+fam226	fla	nig
+fam227	fla	fum	nig	nid
+fam228	fla	nid
+fam229	fla	nid
+fam230	fla	fum
+fam231	fla	fum	nig	nid
+fam232	fla	fum	nig	nid
+fam233	fla	fum	nig	nid
+fam234	fla	nig
+fam235	nig	nid
+fam236	fla	fum	nig	nid
+fam237	fla	nid
+fam238	fla	nig
+fam239	fla	nid
+fam240	fla	nig	nid
+fam241	fla	nig
+fam242	fla	nig	nid
+fam243	nig	nid
+fam244	fla	nig	nid
+fam245	nig	nid
+fam246	fla	nid
+fam247	fum	nid
+fam248	fla	nid
+fam249	fla	fum
+fam250	fla	nid
+fam251	fla	nig
+fam252	fla	nid
+fam253	fla	nig	nid
+fam254	fla	nig
+fam255	fla	nig
+fam256	fla	nid
+fam257	nig	nid
+fam258	fla	fum	nid
+fam259	fla	nid
+fam260	fla	nig
+fam261	fla	nig	nid
+fam262	fum	nig	nid
+fam263	fla	nig
+fam264	nig	nid
+fam265	fla	fum	nid
+fam266	nig	nid
+fam267	fla	nig	nid
+fam268	fla	nid
+fam269	fla	nid
+fam270	fla	fum	nid
+fam271	fla	nid
+fam272	fla	nig
+fam273	fla	fum	nig	nid
+fam274	fla	nid
+fam275	fla	fum	nig	nid
+fam276	fum	nig
+fam277	fla	fum	nig	nid
+fam278	fla	fum	nig	nid
+fam279	fla	nig
+fam280	fla	fum	nig	nid
+fam281	fla	fum	nig
+fam282	fla	nid
+fam283	nig	nid
+fam284	fla	nig
+fam285	fla	fum	nig
+fam286	nig	nid
+fam287	fla	fum	nig	nid
+fam288	fla	fum	nig	nid
+fam289	fla	nig	nid
+fam290	fla	nid
+fam291	nig	nid
+fam292	fla	fum	nid
+fam293	nig	nid
+fam294	fla	fum	nid
+fam295	fum	nig
+fam296	fla	fum	nig	nid
+fam297	nig	nid
+fam298	fla	fum	nid
+fam299	fla	nig	nid
+fam300	fla	nig	nid
+fam301	fum	nid
+fam302	fla	nig	nid
+fam303	fla	fum	nid
+fam304	fla	fum	nid
+fam305	fla	fum
+fam306	fla	fum	nig	nid
+fam307	fla	nig
+fam308	fla	fum	nid
+fam309	fla	nig
+fam310	fla	fum
+fam311	fla	nig
+fam312	fum	nig	nid
+fam313	fla	nid
+fam314	fla	nig	nid
+fam315	fla	fum
+fam316	fum	nid
+fam317	fum	nig
+fam318	fla	fum	nig	nid
+fam319	fla	fum	nid
+fam320	fla	nid
+fam321	fla	nig
+fam322	fla	fum
+fam323	fum	nid
+fam324	fla	fum	nig
+fam325	fla	nig
+fam326	fla	nid
+fam327	fla	nig
+fam328	fla	nig	nid
+fam329	fla	fum
+fam330	fla	fum	nid
+fam331	fla	nig	nid
+fam332	fla	nig	nid
+fam333	fla	nig
+fam334	fum	nig	nid
+fam335	fla	fum	nig	nid
+fam336	fla	nig	nid
+fam337	fla	fum	nig	nid
+fam338	fla	fum	nig	nid
+fam339	nig	nid
+fam340	fla	fum	nid
+fam341	fla	nig
+fam342	fla	nid
+fam343	fla	nig	nid
+fam344	fla	nid
+fam345	fum	nig	nid
+fam346	fla	fum
+fam347	fla	fum	nid
+fam348	fla	fum	nig
+fam349	fla	fum	nig
+fam350	fla	nig	nid
+fam351	fla	nid
+fam352	fla	nig
+fam353	fla	fum	nid
+fam354	fla	fum	nig	nid
+fam355	fla	nig	nid
+fam356	nig	nid
+fam357	fla	nid
+fam358	fla	fum	nig
+fam359	fla	nig
+fam360	nig	nid
+fam361	fla	nid
+fam362	fum	nig	nid
+fam363	fla	nig
+fam364	fla	nid
+fam365	fla	fum	nid
+fam366	fla	nid
+fam367	nig	nid
+fam368	fla	fum
+fam369	fla	nig	nid
+fam370	fla	nig	nid
+fam371	fla	nig
+fam372	fla	nig
+fam373	fla	fum	nid
+fam374	fla	fum	nig
+fam375	fla	nid
+fam376	fla	nid
+fam377	fla	nig	nid
+fam378	fla	nid
+fam379	fla	fum
+fam380	fla	nig
+fam381	fla	fum	nid
+fam382	fla	nig	nid
+fam383	nig	nid
+fam384	fla	nid
+fam385	fla	fum	nig	nid
+fam386	fla	nig	nid
+fam387	fla	fum	nig
+fam388	fla	nig
+fam389	fla	fum	nid
+fam390	nig	nid
+fam391	nig	nid
+fam392	fla	fum	nig	nid
+fam393	fla	nig
+fam394	fla	nid
+fam395	fla	fum	nig	nid
+fam396	fum	nig	nid
+fam397	fla	nid
+fam398	fla	nig	nid
+fam399	fla	fum	nig	nid
+fam400	fum	nig
+fam401	fla	nid
+fam402	fla	fum	nig	nid
+fam403	nig	nid
+fam404	fla	nig
+fam405	fla	nig
+fam406	fla	fum	nid
+fam407	fla	nig
+fam408	fla	fum	nid
+fam409	fla	nig
+fam410	fla	nid
+fam411	fla	nig
+fam412	nig	nid
+fam413	fla	fum	nig	nid
+fam414	fla	nid
+fam415	fla	nig
+fam416	fla	fum	nid
+fam417	fla	fum	nid
+fam418	fla	nid
+fam419	fla	fum	nig	nid
+fam420	fla	nig
+fam421	fla	nig
+fam422	nig	nid
+fam423	nig	nid
+fam424	fum	nig	nid
+fam425	fla	nid
+fam426	fum	nig	nid
+fam427	fla	nig
+fam428	fla	nig
+fam429	nig	nid
+fam430	fla	nig
+fam431	fla	fum	nig	nid
+fam432	fla	fum	nig	nid
+fam433	fla	nid
+fam434	fla	nig	nid
+fam435	fum	nid
+fam436	fla	nid
+fam437	fla	fum	nig	nid
+fam438	fla	nig	nid
+fam439	fla	nig
+fam440	fla	fum	nig	nid
+fam441	nig	nid
+fam442	fla	nig
+fam443	fla	fum
+fam444	fla	nid
+fam445	fla	nid
+fam446	fla	fum	nid
+fam447	fla	nid
+fam448	fla	fum	nig	nid
+fam449	fla	fum
+fam450	fla	nid
+fam451	fla	nig
+fam452	fla	fum
+fam453	fla	nig
+fam454	fla	nid
+fam455	fla	nid
+fam456	fla	nig	nid
+fam457	fum	nid
+fam458	fla	nig	nid
+fam459	fla	nig
+fam460	fla	nig
+fam461	fla	nig
+fam462	fla	nig
+fam463	fla	nig
+fam464	fla	fum	nig	nid
+fam465	fla	nid
+fam466	fla	nid
+fam467	fla	nig	nid
+fam468	fla	nid
+fam469	fla	nid
+fam470	fla	nig	nid
+fam471	fla	fum	nid
+fam472	fla	nig
+fam473	fla	nid
+fam474	fla	nig	nid
+fam475	fla	nid
+fam476	fla	fum	nig	nid
+fam477	fla	nid
+fam478	nig	nid
+fam479	fla	fum
+fam480	fla	nid
+fam481	fla	nig
+fam482	fla	fum	nid
+fam483	fum	nig
+fam484	fla	fum	nid
+fam485	fla	nig
+fam486	fla	nig	nid
+fam487	nig	nid
+fam488	fla	nid
+fam489	fla	nid
+fam490	fla	fum	nig	nid
+fam491	fla	fum	nid
+fam492	fla	fum	nig
+fam493	fla	nig	nid
+fam494	nig	nid
+fam495	fla	fum	nig	nid
+fam496	fla	nid
+fam497	fla	fum
+fam498	fla	nig	nid
+fam499	fum	nig
+fam500	fla	fum	nig	nid
+fam501	fla	nig
+fam502	fla	nig	nid
+fam503	nig	nid
+fam504	fum	nig
+fam505	nig	nid
+fam506	fla	fum
+fam507	fum	nig

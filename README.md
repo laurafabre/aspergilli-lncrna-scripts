@@ -6,13 +6,7 @@
 
 ## Overview
 
-This repository contains the scripts used for the analysis of long non-coding RNAs (lncRNAs) in *Aspergillus* and related fungal species. The workflow is split across two GitHub repositories:
-
-| Step | Repository | Description |
-|------|-----------|-------------|
-| **0 — Data fetching, QC & strand detection** | [Gabaldonlab/lncRNAs](https://github.com/Gabaldonlab/lncRNAs) | Obtaining, QC, and trimming of all public RNA-Seq datasets used in the study |
-| **1–6 — Downstream analyses** | **This repository** | lncRNA prediction, mapping, co-expression, synteny, TE overlap, WGCNA |
-
+This repository contains the scripts used for the analysis of long non-coding RNAs (lncRNAs) in *Aspergillus* species. The workflow is split across two GitHub repositories:
 ---
 
 ## Repository Structure
@@ -32,7 +26,7 @@ This repository contains the scripts used for the analysis of long non-coding RN
 ## Module Descriptions
 
 ### `prediction/`
-Scripts for lncRNA prediction, largely adapted from [Gabaldonlab/lncRNAs](https://github.com/Gabaldonlab/lncRNAs). Includes filtering steps, SAF file generation, and subtelomeric enrichment analysis.
+Scripts for lncRNA prediction, largely adapted from [Gabaldonlab/lncRNAs](https://github.com/Gabaldonlab/lncRNAs). Includes subtelomeric enrichment analysis.
 
 Key scripts:
 - `lncrna_prediction.py` — Main prediction script
@@ -45,7 +39,7 @@ Environment: `lncrna_prediction.yml`
 ---
 
 ### `snakemake/`
-Snakemake workflow for mapping RNA-Seq reads to reference genomes and performing genome-guided transcriptome assembly (among other analyses).
+Snakemake workflow for QC, trimming and mapping RNA-Seq reads to reference genomes and performing genome-guided transcriptome assembly (among other analyses).
 
 Key files:
 - `snakefile_paired.py` — Main Snakemake workflow (paired-end reads)
@@ -141,7 +135,7 @@ If you use these scripts, please cite our paper:
 > *[Citation to be added upon publication]*
 
 For scripts adapted from Gabaldonlab:
-> [Gabaldonlab/lncRNAs](https://github.com/Gabaldonlab/lncRNAs)
+> Hovhannisyan H, Gabaldón T. (2021) *Nat Commun. *https://doi.org/10.1038/s41467-021-27635-4
 
 For synteny scripts adapted from Pegueroles et al.:
 > Pegueroles et al. (2019) *Mol. Biol. Evol.* https://doi.org/10.1093/molbev/msz108

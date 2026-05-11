@@ -135,7 +135,7 @@ If you use these scripts, please cite our paper:
 > *[Citation to be added upon publication]*
 
 For scripts adapted from Gabaldonlab:
-> Hovhannisyan H, Gabaldón T. (2021) *Nat Commun. *https://doi.org/10.1038/s41467-021-27635-4
+> Hovhannisyan H, Gabaldón T. (2021) *Nat Commun.* https://doi.org/10.1038/s41467-021-27635-4
 
 For synteny scripts adapted from Pegueroles et al.:
 > Pegueroles et al. (2019) *Mol. Biol. Evol.* https://doi.org/10.1093/molbev/msz108
